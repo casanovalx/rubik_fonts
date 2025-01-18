@@ -1,5 +1,7 @@
 # Rubik Fonts
 
+It's a fork of the archived repository of Rubik fonts.
+
 The Rubik Fonts project was initiated as part of the [Chrome CubeLab](https://www.chrome.com/cubelab) project.
 
 Rubik is a 5 weight Roman + Italic family. 
